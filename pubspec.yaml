@@ -1,7 +1,7 @@
 name: flutter_open_file
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/eggysudianto/flutter_open_file
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
@@ -23,6 +23,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
